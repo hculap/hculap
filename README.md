@@ -69,11 +69,11 @@ Free, questions in English.
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Claude badge on Credly: claim it, add a personal email, keep it](https://szymonpaluch.com/blog/posts/claude-certification-credly-badge?utm_source=github&utm_medium=readme) · 27 Nov 2026
+- [Claude exam registration problems: five fixes before you book](https://szymonpaluch.com/blog/posts/claude-exam-registration-problems?utm_source=github&utm_medium=readme) · 27 Nov 2026
 - [An agent for everything, or an agent per project](https://szymonpaluch.com/blog/posts/one-agent-per-project?utm_source=github&utm_medium=readme) · 26 Nov 2026
-- [AI and wellbeing at work: the rollout decides](https://szymonpaluch.com/blog/posts/ai-wellbeing-at-work?utm_source=github&utm_medium=readme) · 19 Nov 2026
-- [The client wanted an agent on its website. The problem was in the sales team](https://szymonpaluch.com/blog/posts/website-agent-or-sales-team?utm_source=github&utm_medium=readme) · 19 Nov 2026
-- [Claude exams from 7 December 2026: what changes, and Developer Professional](https://szymonpaluch.com/blog/posts/claude-exam-changes-december-2026?utm_source=github&utm_medium=readme) · 18 Nov 2026
-- [Claude exams cost $0 until 30 November 2026: who qualifies and how to book](https://szymonpaluch.com/blog/posts/free-claude-exams-november-2026?utm_source=github&utm_medium=readme) · 18 Nov 2026<!-- BLOG-POST-LIST:END -->
+- [Black Friday: $0 Claude exams for members and $50 for your first two months](https://szymonpaluch.com/blog/posts/black-friday-claude-exam-2026?utm_source=github&utm_medium=readme) · 26 Nov 2026
+- [AI and wellbeing at work: the rollout decides](https://szymonpaluch.com/blog/posts/ai-wellbeing-at-work?utm_source=github&utm_medium=readme) · 19 Nov 2026<!-- BLOG-POST-LIST:END -->
 
 [All posts on the blog →](https://szymonpaluch.com/blog/?utm_source=github&utm_medium=readme)
 
